@@ -115,7 +115,7 @@ Work on a Vue instance:
 
 ## FAQ
 
-### How to programminly swipe to an item?
+### How to programmatically swipe to an item?
 
 Use ref and call `goto()` method.
 
